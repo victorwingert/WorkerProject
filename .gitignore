@@ -1,0 +1,16 @@
+# Arquivos compilados Java
+*.class
+
+# Diretório de saída do Maven
+target/
+
+# Diretório de saída do Gradle
+build/
+
+# Logs
+*.log
+
+# Diretórios de IDE
+.idea/
+.vscode/
+*.iml
