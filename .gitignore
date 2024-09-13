@@ -1,16 +1,12 @@
-# Arquivos compilados Java
+/target/
+
 *.class
 
-# Diretório de saída do Maven
-target/
+target/maven-status/
 
-# Diretório de saída do Gradle
-build/
+target/maven-compiler-plugin/
 
-# Logs
 *.log
-
-# Diretórios de IDE
-.idea/
-.vscode/
-*.iml
+*.tmp
+*.bak
+*.swp
